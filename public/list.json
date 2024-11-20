@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2,
+    "name": "Atomic Habits",
+    "title": "An Easy & Proven Way to Build Good Habits",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg",
+    "price": 0
+  },
+  {
+    "id": 3,
+    "name": "Sapiens",
+    "title": "A Brief History of Humankind",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg",
+    "price": 0
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "title": "The First Book in the Harry Potter Series",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
+    "price": 0
+  },
+  {
+    "id": 5,
+    "name": "The Lean Startup",
+    "title": "How Today's Entrepreneurs Use Continuous Innovation",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+    "price": 0
+  },
+  {
+    "id": 7,
+    "name": "Rich Dad Poor Dad",
+    "title": "What the Rich Teach Their Kids About Money",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg",
+    "price": 0
+  },
+  {
+    "id": 8,
+    "name": "The Alchemist",
+    "title": "A Fable About Following Your Dream",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "price": 0
+  },
+  {
+    "id": 9,
+    "name": "Becoming",
+    "title": "A Memoir by Michelle Obama",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+    "price": 0
+  },
+  {
+    "id": 10,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "title": "A Counterintuitive Approach to Living a Good Life",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+    "price": 0
+  }
+]
